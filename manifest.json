@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Save Tab URLs",
+    "version": "1.0",
+    "permissions": ["tabs"],
+    "host_permissions": ["<all_urls>"],
+    "action": {
+      "default_title": "Save URLs",
+      "default_popup": "popup.html"
+    }
+  }
+  
